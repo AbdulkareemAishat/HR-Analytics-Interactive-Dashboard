@@ -9,7 +9,7 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to visualize empl
 - Pivot Charts
 - Slicers
 - KPI Cards
-- 
+  
 ## Key Insights
 - Job satisfaction by Age groups
 - Monthly income by Job role
@@ -19,5 +19,8 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to visualize empl
 - Monthly income by Department
 
 - ## Dashboard Preview
-- 
+<img width="305" height="281" alt="HR Analytics Dashboard Preview" src="https://github.com/user-attachments/assets/d250f809-aed1-4435-9fb2-87543f58d348" />
+
+
+
 - 
